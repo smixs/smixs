@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://shima.me"><img src="https://img.shields.io/badge/shima.me-000?style=for-the-badge&logo=safari&logoColor=white" /></a>
   <a href="https://t.me/aimastersme"><img src="https://img.shields.io/badge/AI_Masters-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://tdigroup.uz"><img src="https://img.shields.io/badge/TDI_Group-FF4500?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white" /></a>
+  <a href="https://tdigroup.uz"><img src="https://img.shields.io/badge/TDI_Group-FF4500?style=for-the-badge&logoColor=white" /></a>
 </p>
 
 ---
@@ -26,40 +26,22 @@
 
 ### Featured projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/smixs/agent-second-brain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smixs&repo=agent-second-brain&theme=dark&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/smixs/humanizer-ru">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smixs&repo=humanizer-ru&theme=dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/smixs/ZPL-80">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smixs&repo=ZPL-80&theme=dark&hide_border=true" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/smixs/telegram-mcp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smixs&repo=telegram-mcp&theme=dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+🧠 **[agent-second-brain](https://github.com/smixs/agent-second-brain)** — The Second Brain Agentic System `⭐ 130`
+
+✍️ **[humanizer-ru](https://github.com/smixs/humanizer-ru)** — Claude Code skill to remove AI-generated text markers `⭐ 16`
+
+📦 **[ZPL-80](https://github.com/smixs/ZPL-80)** — Zip Prompt Language: compress heavy system prompts `⭐ 15`
+
+📱 **[telegram-mcp](https://github.com/smixs/telegram-mcp)** — Telegram MCP server powered by Telethon `⭐ 1`
+
+🐶 **[d-buddy](https://github.com/smixs/d-buddy)** — Transcription Telegram Bot `⭐ 6`
 
 ---
 
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=smixs&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=smixs&theme=dark&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=smixs&theme=dark&hide_border=true" height="165" />
 </p>
 
 ---
