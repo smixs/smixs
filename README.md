@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&random=false&width=600&lines=Creative+babai+on+AI;Building+AI+Agents+in+Production;4+Agents.+1+Family.+Zero+Downtime." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&random=false&width=600&lines=Creative+babai+on+AI;Building+AI+Agents+in+Production;20%2B+years+in+creative+%C2%B7+Now+building+AI+that+builds" alt="Typing SVG" />
 </h1>
 
 <p align="center">
