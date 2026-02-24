@@ -22,19 +22,6 @@
 
 **[AI Masters](https://t.me/aimastersme)** — teaching people to build and deploy AI agents. Not theory. Production.
 
----
-
-### Featured projects
-
-🧠 **[agent-second-brain](https://github.com/smixs/agent-second-brain)** — The Second Brain Agentic System `⭐ 130`
-
-✍️ **[humanizer-ru](https://github.com/smixs/humanizer-ru)** — Claude Code skill to remove AI-generated text markers `⭐ 16`
-
-📦 **[ZPL-80](https://github.com/smixs/ZPL-80)** — Zip Prompt Language: compress heavy system prompts `⭐ 15`
-
-📱 **[telegram-mcp](https://github.com/smixs/telegram-mcp)** — Telegram MCP server powered by Telethon `⭐ 1`
-
-🐶 **[d-buddy](https://github.com/smixs/d-buddy)** — Transcription Telegram Bot `⭐ 6`
 
 ---
 
