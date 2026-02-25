@@ -18,9 +18,23 @@ hands-on CTO of several AI products. teaching companies to deploy AI in producti
 
 ### what i'm building
 
-<a href="https://github.com/smixs/agent-second-brain"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=agent-second-brain&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/smixs/humanizer-ru"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=humanizer-ru&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
-<a href="https://github.com/smixs/telegram-mcp"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=telegram-mcp&theme=github_dark&hide_border=true&bg_color=0d1117" /></a>
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/smixs/agent-second-brain"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=agent-second-brain&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" /></a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/smixs/humanizer-ru"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=humanizer-ru&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/smixs/telegram-mcp"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=telegram-mcp&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" /></a>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
 
 ### stack
 
@@ -38,8 +52,12 @@ hands-on CTO of several AI products. teaching companies to deploy AI in producti
 ### stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smixs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" height="165" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smixs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" />
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smixs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" height="165" />
+  </picture>
+  <picture>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smixs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" />
+  </picture>
 </p>
 
 <p align="center">
