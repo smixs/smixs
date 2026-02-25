@@ -18,23 +18,8 @@ hands-on CTO of several AI products. teaching companies to deploy AI in producti
 
 ### what i'm building
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/smixs/agent-second-brain"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=agent-second-brain&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" /></a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/smixs/humanizer-ru"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=humanizer-ru&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/smixs/telegram-mcp"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=telegram-mcp&theme=github_dark&hide_border=true&bg_color=0d1117" width="100%" /></a>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/smixs/agent-second-brain"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=agent-second-brain&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" /></a>
+<a href="https://github.com/smixs/humanizer-ru"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=humanizer-ru&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" /></a>
 
 ### stack
 
