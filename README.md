@@ -1,40 +1,33 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=E8E8E8&center=true&vCenter=true&random=false&width=600&lines=Creative+babai+on+AI;Building+AI+Agents+in+Production;20%2B+years+in+creative+%C2%B7+Now+building+AI+that+builds" alt="Typing SVG" />
-</h1>
+<h3 align="center">serge shima</h3>
 
 <p align="center">
-  <strong>Serge Shima</strong> · Tashkent, Uzbekistan
-  <br>
-  <sub>20+ years in creative industry · Now building AI that builds</sub>
+  building AI agents that ship · tashkent 🇺🇿
 </p>
 
 <p align="center">
-  <a href="https://shima.me"><img src="https://img.shields.io/badge/shima.me-000?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="https://t.me/aimastersme"><img src="https://img.shields.io/badge/AI_Masters-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://tdigroup.uz"><img src="https://img.shields.io/badge/TDI_Group-FF4500?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://aimasters.me">aimasters.me</a> · <a href="https://t.me/aimastersme">telegram</a> · <a href="https://shima.me">shima.me</a>
 </p>
 
 ---
 
-### What I do
+i teach companies to build and deploy AI agents. not slides about AI — actual systems running in production.
 
-**TDI Group** — AI creative agency. 20 years, 200+ international awards.
+20+ years in creative industry, now full-time on AI agents, knowledge systems, and automation. hands-on CTO of several AI products. adjunct at MBA programs.
 
-**[AI Masters](https://t.me/aimastersme)** — teaching people to build and deploy AI agents. Not theory. Production.
+#### what i'm building
 
+- **[agent-second-brain](https://github.com/smixs/agent-second-brain)** — agentic system with persistent memory, knowledge graph, and multi-agent orchestration. 130+ ⭐
+- **[humanizer-ru](https://github.com/smixs/humanizer-ru)** — skill that strips AI-generated markers from Russian text. 21 patterns, zero fluff
+- **[telegram-mcp](https://github.com/smixs/telegram-mcp)** — MCP server for Telegram via Telethon. full chat access for AI agents
+
+#### stack
+
+`python` · `typescript` · `claude` · `openai` · `telethon` · `next.js` · `mcp`
+
+#### AI Masters
+
+running [AI Masters](https://t.me/aimastersme) — a community and training program for people who want to actually use AI, not just talk about it. corporate workshops, mentoring, production deployments.
 
 ---
 
-### Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=smixs&theme=dark&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">
-  <sub>Creative babai on AI · Building agents that don't sleep so I can</sub>
-  <br>
-  <sub>🇺🇿 Tashkent · 🎧 DJ since 1998 · 🐶 Tёka & 🐱 Romashka approved</sub>
-</p>
+<sub>DJ since 1998 · 🐶 tёka & 🐱 romashka approved</sub>
