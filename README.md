@@ -16,24 +16,6 @@
 20+ years in creative industry, now full-time on AI agents, knowledge systems, and automation.
 hands-on CTO of several AI products. teaching companies to deploy AI in production, not talk about it.
 
-### what i'm building
-
-<a href="https://github.com/smixs/agent-second-brain"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=agent-second-brain&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" /></a>
-<a href="https://github.com/smixs/humanizer-ru"><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smixs&repo=humanizer-ru&theme=github_dark&hide_border=true&bg_color=0d1117" width="49%" /></a>
-
-### stack
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-4A154B?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
 ### stats
 
 <p align="center">
