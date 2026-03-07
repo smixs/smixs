@@ -31,11 +31,6 @@ hands-on CTO of several AI products. teaching companies to deploy AI in producti
   <img src="https://streak-stats.demolab.com?user=smixs&theme=github-dark-blue&hide_border=true&background=0D1117" />
 </p>
 
-### trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smixs&theme=darkhub&no-frame=true&column=7&margin-w=10" />
-</p>
 
 ### contributions
 
