@@ -16,17 +16,6 @@
 20+ years in creative industry, now full-time on AI agents, knowledge systems, and automation.
 hands-on CTO of several AI products. teaching companies to deploy AI in production, not talk about it.
 
-### stats
-
-<p align="center">
-  <picture>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smixs&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" height="165" />
-  </picture>
-  <picture>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=smixs&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" />
-  </picture>
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=smixs&theme=github-dark-blue&hide_border=true&background=0D1117" />
 </p>
