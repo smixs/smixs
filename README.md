@@ -21,8 +21,6 @@ hands-on CTO of several AI products. teaching companies to deploy AI in producti
 </p>
 
 
-### contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smixs/smixs/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smixs/smixs/output/github-snake.svg" />
