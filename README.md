@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&text=serge%20shima&fontSize=36&fontColor=e6edf3&fontAlignY=35&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1227,100:161b22&height=180&text=serge%20shima&fontSize=36&fontColor=e6edf3&fontAlignY=35&animation=fadeIn)
 
 <p align="center">
   building AI agents that ship · tashkent 🇺🇿
