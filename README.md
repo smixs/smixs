@@ -36,6 +36,11 @@ hands-on CTO of several AI products. teaching companies to deploy AI in producti
 ---
 
 <p align="center">
+  🎧 <b>music for driving &amp; coding</b> — my telegram channel<br>
+  <a href="https://t.me/taxiaudio"><img src="https://img.shields.io/badge/listen%20on%20telegram-%40taxiaudio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@taxiaudio" /></a>
+</p>
+
+<p align="center">
   <sub>DJ since 1998 · 🐶 tёka & 🐱 romashka approved</sub>
 </p>
 
