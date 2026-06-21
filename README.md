@@ -17,9 +17,15 @@
 hands-on CTO of several AI products. teaching companies to deploy AI in production, not talk about it.
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=smixs&theme=github-dark-blue&hide_border=true&background=0D1117" />
+  <a href="https://github.com/smixs/iva">
+    <img src="https://raw.githubusercontent.com/smixs/iva/main/assets/iva-header.webp" alt="iva — open-source personal AI agent with long-term memory" width="100%" />
+  </a>
 </p>
 
+<p align="center">
+  <b>iva</b> — open-source personal AI agent with long-term memory. one command, your server, no lock-in.<br>
+  <a href="https://github.com/smixs/iva">github.com/smixs/iva</a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smixs/smixs/output/github-snake-dark.svg" />
