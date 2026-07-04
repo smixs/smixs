@@ -18,12 +18,12 @@ hands-on CTO of several AI products. teaching companies to deploy AI in producti
 
 <p align="center">
   <a href="https://github.com/smixs/iva">
-    <img src="https://raw.githubusercontent.com/smixs/iva/main/assets/iva-header.webp" alt="iva — open-source personal AI agent with long-term memory" width="100%" />
+    <img src="https://raw.githubusercontent.com/smixs/iva/main/assets/iva-header.webp" alt="iva — a personal assistant in Telegram that remembers everything" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <b>iva</b> — open-source personal AI agent with long-term memory. one command, your server, no lock-in.<br>
+  <b>iva</b> — a personal assistant in Telegram that remembers everything. throw it voice notes, files, forwarded posts — it files and links them. one command, your server, no lock-in.<br>
   <a href="https://github.com/smixs/iva">github.com/smixs/iva</a>
 </p>
 
