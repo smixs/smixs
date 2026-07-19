@@ -13,9 +13,6 @@
 
 ---
 
-20+ years in creative industry, now full-time on AI agents, knowledge systems, and automation.
-hands-on CTO of several AI products. teaching companies to deploy AI in production, not talk about it.
-
 <p align="center">
   <a href="https://github.com/smixs/iva">
     <img src="https://raw.githubusercontent.com/smixs/iva/main/assets/iva-header.webp" alt="iva — a personal assistant in Telegram that remembers everything" width="100%" />
