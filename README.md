@@ -25,11 +25,8 @@
 ---
 
 <p align="center">
-  # 🎧 <b>music</b> <a href="https://t.me/taxiaudio"><img src="https://img.shields.io/badge/listen%20on%20telegram-%40taxiaudio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@taxiaudio" /></a>
+<a href="https://t.me/taxiaudio"><img src="https://img.shields.io/badge/listen%20on%20telegram-%40taxiaudio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@taxiaudio" /></a>
 </p>
 
-<p align="center">
-  <sub>DJ since 1998 · 🐶 tёka & 🐱 romashka approved</sub>
-</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer)
