@@ -16,11 +16,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>iva</b> — a personal assistant in Telegram that remembers everything. throw it voice notes, files, forwarded posts — it files and links them. one command, your server, no lock-in.<br>
-  <a href="https://github.com/smixs/iva">github.com/smixs/iva</a>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smixs/smixs/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smixs/smixs/output/github-snake.svg" />
