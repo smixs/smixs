@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  🎧 <b>music for driving &amp; coding</b> — my telegram channel<br>
+  # 🎧 <b>music</b>
   <a href="https://t.me/taxiaudio"><img src="https://img.shields.io/badge/listen%20on%20telegram-%40taxiaudio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@taxiaudio" /></a>
 </p>
 
