@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://aimasters.me"><img src="https://img.shields.io/badge/aimasters.me-000?style=flat-square&logo=safari&logoColor=white" /></a>
-  <a href="https://t.me/aimastersme"><img src="https://img.shields.io/badge/telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="https://shima.me"><img src="https://img.shields.io/badge/shima.me-000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=smixs&style=flat-square&color=161b22&label=views" />
 </p>
