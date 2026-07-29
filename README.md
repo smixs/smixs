@@ -25,6 +25,13 @@
 ---
 
 <p align="center">
+  <a href="https://www.mixcloud.com/sergeshima/shima-vebecoder-vol1/">
+    <img src="assets/vibecoder-vol1.jpg" alt="VIBECODER vol.1 — drum and bass compilation selected and mixed by shima" width="200" />
+  </a>
+</p>
+
+<p align="center">
+<a href="https://www.mixcloud.com/sergeshima/shima-vebecoder-vol1/"><img src="https://img.shields.io/badge/VIBECODER%20vol.1-mixcloud-14171A?style=for-the-badge&logo=mixcloud&logoColor=white" alt="VIBECODER vol.1 — dnb mix for vibecoding" /></a>
 <a href="https://t.me/taxiaudio"><img src="https://img.shields.io/badge/listen%20on%20telegram-%40taxiaudio-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="@taxiaudio" /></a>
 </p>
 
