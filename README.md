@@ -16,6 +16,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/smixs/pi-durable-telegram">
+    <img src="https://raw.githubusercontent.com/smixs/pi-durable-telegram/main/assets/header.webp" alt="pi-durable telegram — your own AI agent that lives on your server and answers you in Telegram" width="100%" />
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smixs/smixs/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smixs/smixs/output/github-snake.svg" />
