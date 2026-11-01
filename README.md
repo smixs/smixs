@@ -11,8 +11,8 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/smixs/iva">
-    <img src="https://raw.githubusercontent.com/smixs/iva/main/assets/iva-header.webp" alt="iva — a personal assistant in Telegram that remembers everything" width="100%" />
+  <a href="https://github.com/smixs/iva-agent">
+    <img src="https://raw.githubusercontent.com/smixs/iva-agent/main/assets/iva-header.webp" alt="iva — a personal assistant in Telegram that remembers everything" width="100%" />
   </a>
 </p>
 
