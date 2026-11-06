@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/smixs/iva-agent"><img src="assets/tiles/iva.webp" alt="IVA: your AI assistant in Telegram that remembers everything and runs on your server" width="49%" /></a>
   <a href="https://github.com/smixs/pi-durable-telegram"><img src="assets/tiles/pi-durable-telegram.webp" alt="pi-durable telegram: an always-on agent on your server that you text in Telegram" width="49%" /></a>
-  <a href="https://sezi.sh"><img src="assets/tiles/sezish.webp" alt="sezish: offline voice to text on your Mac, Uzbek first" width="49%" /></a>
-  <a href="https://claimp.app"><img src="assets/tiles/claimp.webp" alt="claimp: the waveform player for building DJ sets on macOS" width="49%" /></a>
+  <a href="https://sezi.sh"><img src="assets/tiles/sezish.webp" alt="sezi.sh: voice to text in Uzbek, Russian and three more languages, app shown on a phone" width="49%" /></a>
+  <a href="https://claimp.app"><img src="assets/tiles/claimp.webp" alt="claimp: the waveform player for building DJ sets on macOS, app icon and player window" width="49%" /></a>
   <a href="https://github.com/smixs/visual-skills"><img src="assets/tiles/visual-skills.webp" alt="Visual Skills: an AI film director for your agent, image and video" width="49%" /></a>
   <a href="https://github.com/smixs/creative-director-skill"><img src="assets/tiles/creative-director.webp" alt="Creative Director Skill: 571 award-winning cases and Cannes Lions scoring" width="49%" /></a>
-  <a href="https://github.com/smixs/pohuy"><img src="assets/tiles/pohuy.webp" alt="ПОХУЙ: мат-режим для AI-агентов, 18+" width="49%" /></a>
-  <a href="https://majento.ai"><img src="assets/tiles/majento.webp" alt="majento: AI transformation studio, software, AI agents and team training" width="49%" /></a>
+  <a href="https://github.com/smixs/pohuy"><img src="assets/tiles/pohuy.webp" alt="POHUY: режим идиоматического русского мата для кодовых AI-агентов" width="49%" /></a>
+  <a href="https://majento.ai"><img src="assets/tiles/majento.webp" alt="majento: AI products, agentic systems for your business" width="49%" /></a>
 </p>
 
 <picture>
